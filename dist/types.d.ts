@@ -7,4 +7,3 @@ export interface InfoTanggal {
     tahun: number;
     namaHari: string;
 }
-//# sourceMappingURL=types.d.ts.map
